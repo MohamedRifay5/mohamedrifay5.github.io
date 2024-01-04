@@ -1,11 +1,11 @@
 {
-    "name": "mohamed_rifay_portfolio",
-    "short_name": "mohamed_rifay_portfolio",
+    "name": "md_rifay_porfolio",
+    "short_name": "md_rifay_porfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Mohamed Rifay Final Portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
